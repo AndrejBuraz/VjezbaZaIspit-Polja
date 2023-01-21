@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\ProvjeraZaIspit\ProvjeraZaIspit\bin\Debug\ProvjeraZaIspit.exe.config
+C:\Users\HP\source\repos\ProvjeraZaIspit\ProvjeraZaIspit\bin\Debug\ProvjeraZaIspit.exe
+C:\Users\HP\source\repos\ProvjeraZaIspit\ProvjeraZaIspit\bin\Debug\ProvjeraZaIspit.pdb
+C:\Users\HP\source\repos\ProvjeraZaIspit\ProvjeraZaIspit\obj\Debug\ProvjeraZaIspit.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ProvjeraZaIspit\ProvjeraZaIspit\obj\Debug\ProvjeraZaIspit.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\ProvjeraZaIspit\ProvjeraZaIspit\obj\Debug\ProvjeraZaIspit.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ProvjeraZaIspit\ProvjeraZaIspit\obj\Debug\ProvjeraZaIspit.exe
+C:\Users\HP\source\repos\ProvjeraZaIspit\ProvjeraZaIspit\obj\Debug\ProvjeraZaIspit.pdb
